@@ -19,5 +19,5 @@ Napoli A, Ward C, Glass S, Tucker C, **Obeid I** (2016) “[Automated Assessment
 
 Glass SM, Napoli A, **Obeid I**, Tucker CA (2018) “[Effects of Concussion History on Center of Mass Motion During Modified Balance Error Scoring System (BESS) Testing in Women](https://github.com/vectortronic/publications/blob/main/glass_2018.pdf),” _Military Health System Research Symposium (MHSRS)_, Orlando, FL.
 
-Napoli A, Glass SM, Tucker CA, **Obeid I** (2018) “[The Expanded Automatic Assessment of Postural Stability: the xAAPS](https://github.com/vectortronic/publications/blob/main/.pdf),” _Military Health System Research Symposium (MHSRS)_, Orlando, FL.
+Napoli A, Glass SM, Tucker CA, **Obeid I** (2018) “[The Expanded Automatic Assessment of Postural Stability: the xAAPS](https://github.com/vectortronic/publications/blob/main/napoli_2018.pdf),” _Military Health System Research Symposium (MHSRS)_, Orlando, FL.
 
