@@ -1,6 +1,9 @@
 # Publications
 
 ## Journal Papers
+
+Roy S, Kiral I, Mirmomeni M, Mummert T, Braz A, Tsay J, Tang J, Asif U, Schaffter T, Ahsen ME, Iwamori T, Yanagisawa H, Poonawala H, Madan P, Qin Y, Picone J, **Obeid I**, Marques BDA, Maetschke S (2021). "[Evaluation of artificial intelligence systems for assisting neurologists with fast and accurate annotations of scalp electroencephalography data](https://github.com/vectortronic/publications/blob/main/roy_2021.pdf),” _EBioMedicine_, doi: 10.1016/j.ebiom.2021.103275.
+
 Golmohammadi M, Harati Nejad Torbati AH, Lopez de Diego S, **Obeid I**, & Picone J (2019). "[Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures](https://github.com/vectortronic/publications/blob/main/golmohammadi_2019.pdf),” _Frontiers in Human Neuroscience_, doi: 10.3389/fnhum.2019.00076.
 
 Ward C & **Obeid I** (2019) "[Application of Identity Vectors for EEG Classification](https://github.com/vectortronic/publications/blob/main/glass_2019.pdf),” _Journal of Neuroscience Methods_, doi: 10.1016/j.jneumeth.2018.09.015.
