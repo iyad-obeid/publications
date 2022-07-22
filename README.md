@@ -1,13 +1,13 @@
 # Publications
 
 ## Journal Papers
-Golmohammadi, M, Harati Nejad Torbati, AH, Lopez de Diego, S, **Obeid, I**, & Picone, J (2019). "[Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures](https://github.com/vectortronic/publications/blob/main/golmohammadi_2019.pdf),” _Frontiers in Human Neuroscience_, doi: 10.3389/fnhum.2019.00076.
+Golmohammadi M, Harati Nejad Torbati AH, Lopez de Diego S, **Obeid I**, & Picone J (2019). "[Automatic Analysis of EEGs Using Big Data and Hybrid Deep Learning Architectures](https://github.com/vectortronic/publications/blob/main/golmohammadi_2019.pdf),” _Frontiers in Human Neuroscience_, doi: 10.3389/fnhum.2019.00076.
 
-Ward, C, & **Obeid, I** (2019) "[Application of Identity Vectors for EEG Classification](https://github.com/vectortronic/publications/blob/main/glass_2019.pdf),” _Journal of Neuroscience Methods_, doi: 10.1016/j.jneumeth.2018.09.015.
+Ward C & **Obeid I** (2019) "[Application of Identity Vectors for EEG Classification](https://github.com/vectortronic/publications/blob/main/glass_2019.pdf),” _Journal of Neuroscience Methods_, doi: 10.1016/j.jneumeth.2018.09.015.
 
-Glass, SM, Napoli A, Thompson ED, **Obeid I**, Tucker CA (2019) “[Validity of an Automated Balance Error Scoring System](https://github.com/vectortronic/publications/blob/main/glass_2019.pdf),” _J Applied Biomechanics_, doi: 10.1123/jab.2018-0056.
+Glass SM, Napoli A, Thompson ED, **Obeid I**, Tucker CA (2019) “[Validity of an Automated Balance Error Scoring System](https://github.com/vectortronic/publications/blob/main/glass_2019.pdf),” _J Applied Biomechanics_, doi: 10.1123/jab.2018-0056.
 
-Shah, V, von Weltin, E, Lopez, S, McHugh, JR, Veloso, L, Golmohammadi, M, **Obeid, I**, & Picone, J (2018) "[The Temple University Hospital Seizure Detection Corpus](https://github.com/vectortronic/publications/blob/main/shah_2018.pdf),” _Frontiers in Neuroinformatics_, doi: 10.3389/fninf.2018.00083.
+Shah V, von Weltin E, Lopez S, McHugh JR, Veloso L, Golmohammadi M, **Obeid I**, & Picone J (2018) "[The Temple University Hospital Seizure Detection Corpus](https://github.com/vectortronic/publications/blob/main/shah_2018.pdf),” _Frontiers in Neuroinformatics_, doi: 10.3389/fninf.2018.00083.
 
 Napoli A, Glass SM, Tucker C, **Obeid I** (2017) “[The Automated Assessment of Postural Stability: Balance Detection Algorithm](https://github.com/vectortronic/publications/blob/main/napoli_2017a.pdf),” _Ann Biomed Eng_, doi: 10.1007/s10439-017-1911-8.
 
