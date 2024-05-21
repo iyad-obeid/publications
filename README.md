@@ -29,6 +29,29 @@ Napoli A, **Obeid I** (2016) "[Comparative Analysis of Human and Rodent Brain Pr
 
 Napoli A, **Obeid I** (2015) "[Investigating brain functional evolution and plasticity using microelectrode array technology](https://github.com/vectortronic/publications/blob/main/napoli_2015.pdf)," _Brain Res Bull_, doi:10.1016/j.brainresbull.2015.10.002.
 
+Napoli A, Xie J, **Obeid I** (2014) "[Understanding The Temporal Evolution of Neuronal Connectivity in Cultured Networks Using Statistical Analysis](https://github.com/vectortronic/publications/blob/main/napoli_2014.pdf)," _BMC Neuroscience_, doi:10.1186/1471-2202-15-17.
+
+Balasubramanian K, **Obeid I** (2011) "[Fuzzy Logic-Based Spike Sorting System](https://github.com/vectortronic/publications/blob/main/balasubramanian_2011.pdf)," _J Neurosci Methods_, doi:10.1016/j.jneumeth.2011.03.016.
+
+**Obeid I**, Veraart C, Delbeke J (2010) "[Estimation of Phosphene Spatial Variability for Visual
+ Prosthesis Applications](https://github.com/vectortronic/publications/blob/main/obeid_2010.pdf)," _Artif Organs_, doi::10.1111/j.1525-1594.2009.00878.x.
+
+Rizk M, **Obeid I**, Callender SH, Wolf PD (2007) "[A Single-Chip Signal Processing and Telemetry Engine for an Implantable 96-Channel Neural Data Acquisition System](https://github.com/vectortronic/publications/blob/main/rizk_2007.pdf)," _J Neural Engineering_, doi:10.1088/1741-2560/4/3/016.
+
+**Obeid I**, Wolf PD (2004) "[Evaluation of Spike-Detection Algorithms for a Brain-Machine Interface Application](https://github.com/vectortronic/publications/blob/main/obeid_2004a.pdf)," _IEEE Trans Biomed Eng_, doi:10.1109/TBME.2004.826683.
+
+**Obeid I**, Nicolelis MALN, Wolf PD (2004) "[A Low Power Multichannel Analog Front End for Portable
+Neural Signal Recordings
+](https://github.com/vectortronic/publications/blob/main/obeid_2004b.pdf)," _J Neurosci Methods_, doi:10.1016/j.jneumeth.2003.09.024.
+
+**Obeid I**, Nicolelis MALN, Wolf PD (2004) "[A Multichannel Telemetry System for Single Unit Neural Recordings
+](https://github.com/vectortronic/publications/blob/main/obeid_2004c.pdf)," _J Neurosci Methods_, doi:10.1016/j.jneumeth.2003.09.023.
+
+**Obeid I**, Morizio JC, Moxon KA, Nicolelis MALN, Wolf PD (2003) "[Two Multichannel Integrated Circuits for Neural
+ Recording and Signal Processing](https://github.com/vectortronic/publications/blob/main/obeid_2003.pdf)," _IEEE Trans Biomed Eng_, doi:10.1109/TBME.2002.807643.
+
+ Niebur E, Elhilali M, **Obeid I**, et al (2002) "[Research, Robots, and Reality: A Statement on Current Trends in Biorobotics](https://github.com/vectortronic/publications/blob/main/niebur_2002.pdf)," _Behavioral and Brain Sciences_, doi:10.1017/S0140525X01450126.
+
 ## Conference Papers
 Kane Z, Stecco E, Napoli A, Tucker C, **Obeid I** (2019) “[Instrumented Multitask Assessment System (IMAS)](https://github.com/vectortronic/publications/blob/main/kane_2019.pdf)," _IEEE Signal Processing in Medicine & Biology Meeting_, Philadelphia, PA.
 
