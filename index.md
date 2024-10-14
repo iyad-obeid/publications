@@ -4,9 +4,9 @@ layout: default
 
 ## Journal Papers
 
-Dev I, Mehmood S, Pleshko N, **Obeid I**, Querido W (2024) "Assessment of Submicron Bone Tissue Composition in 
-Plastic-Embedded Samples Using Optical Photothermal (O-PTIR) Spectral Imaging and Machine Learning," in review 
-at _J Structural Biology_.
+Dev I, Mehmood S, Pleshko N, **Obeid I**, Querido W (2024) "[Assessment of Submicron Bone Tissue Composition in 
+Plastic-Embedded Samples Using Optical Photothermal (O-PTIR) Spectral Imaging and Machine Learning](https://github.com/vectortronic/publications/blob/main/dev_2024.pdf),"  
+ _J Structural Biology_, doi: 10.1016/j.yjsbx.2024.100111.
 
 Han I, **Obeid I**, Greco D (2023) "[Multimodal Learning Analytics and Neurofeedback for Optimizing Online 
 Learners’ Self-Regulation](https://github.com/vectortronic/publications/blob/main/han_2023.pdf)," _Technology, Knowledge and Learning_, doi:10.1007/s10758-023-09675-5.
